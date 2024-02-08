@@ -1,0 +1,62 @@
+.all{
+    background-color: #FFFFFF;
+    height: 100vh;
+}
+
+.boxLarge{
+    background-color: #FFFFFF;
+    width:30vw;
+    padding: 10px 40px 12px;
+    position: relative;
+    top:12vh;
+    left:32vw;
+    border: 1px solid;
+    border-color: #000000;
+    border-radius: 8px;
+    text-align: center;
+
+}
+
+.box{
+    font-size:15px;
+    display: block;
+    list-style-type:none;
+    resize: none;
+    padding: 10px;
+    margin: 30px auto;
+    width: 25vw;
+}
+
+.login{
+    weight: 150px;
+    color: #A3D8F6;
+    font-size: 2rem;
+}
+
+.login_button {
+    height:40px;
+    width: 110px;
+    margin-bottom: 10px;
+    background-color: #FFFFFF;
+    color: #000000;;
+    border-color:#FFFFFF;
+    border: 1px solid;
+    border-radius: 8px;
+    margin-left: 50px;
+}
+
+.signup_button {
+    height: 40px;
+    width: 110px;
+    margin-bottom: 10px;
+    background-color: #FFFFFF;
+    color: #000000;;
+    border-color:#FFFFFF ;
+    border: 1px solid;
+    border-radius: 8px;
+    margin-left: 50px;
+}
+
+.container {
+    display: flex;
+}
